@@ -1,12 +1,12 @@
 # Regulation
-<h1>BRYAN KORNELES SAPUTRA FARNEUBUN</h1>
+<h1>Fisichella Andrew Laurent</h1>
 <h3>langkah-langkah</h3>
-<br>1. Download ZIP file dari gihub</br>
-<br>2. Ekstrak file ZIP</br>
-<br>3. Buka File di Visual Studio Code untuk melihat source code</br>
-<br>4. Buka XAMPP nyalakan apche dan MySQL</br>
-<br>5. Pergi ke phpMyAdmin dan import file SQL dari Repository Github</br>
-<br>6. Buka Browser dan akses localhost/index.php</br>
+<br>1. Download ZIP file dari gihub.</br>
+<br>2. Ekstrak file ZIP.</br>
+<br>3. Buka File di Visual Studio Code untuk melihat source code.</br>
+<br>4. Buka XAMPP nyalakan apache dan MySQL.</br>
+<br>5. Pergi ke phpMyAdmin dan import file SQL dari Repository Github.</br>
+<br>6. Buka Browser dan akses localhost/index.php.</br>
 
 
 
